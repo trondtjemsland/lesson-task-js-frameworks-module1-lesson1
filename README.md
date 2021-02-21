@@ -1,6 +1,6 @@
 # JS Frameworks - Module 1
 
-## Lesson Task 1 Question
+## Lesson Task 1 Answer
 
 Create a new app using Create React App.
 
